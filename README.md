@@ -7,7 +7,7 @@
 <a href="https://stackoverflow.com/users/10354375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10354375" height="30" width="40" /></a>
 </p>
 
-- 📫 Reach me at **alexluiscolombari@gmail.com**
+- 📫 Contact me: **alexluiscolombari@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
