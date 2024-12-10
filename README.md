@@ -1,5 +1,4 @@
-![Header](./github-header-image)
-<img src="https://raw.githubusercontent.com/alexcolombari/alexcolombari/master/resources/banner.png" alt="Hello world">
+![Header](./github-header-image.png)
 
 <p align="center"> 
   Visitor count<br>
