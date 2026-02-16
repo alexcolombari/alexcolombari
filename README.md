@@ -3,7 +3,7 @@
 I am a Network and System Administrator with over 7 years of experience , currently based in Germany. My career is built on ensuring the stability and performance of mission-critical systems, moving from core networking to the world of Infrastructure as Code (IaC) and Observability.
 
 🛠️ Technical Background
-Infrastructure: Advanced administration of Linux and Windows Servers, specializing in Active Directory and GPOs.
+Infrastructure: Advanced administration of Linux and Windows Servers, specializing in Active Directory and GPOs. </br>
 Networking: Deep expertise in Tier-1 equipment (Mikrotik, Huawei, Juniper) and advanced protocols like BGP and MPLS.
 Virtualization & Cloud: Hands-on experience with VMware, Proxmox, Hyper-V, and Docker/Kubernetes, managing environments in AWS and Azure.
 Automation & ML: Proficient in Python, PowerShell, and Bash. I have a unique background in Machine Learning R&D, where I developed computer vision models using OpenCV and CNNs with 90%+ accuracy.
