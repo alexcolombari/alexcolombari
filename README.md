@@ -7,7 +7,7 @@
 
 ## About me
 
-I’m Alex Colombari, a skilled IT professional with a strong background in Networks, Servers, infrastructure, back end programming and a bit of machine learning. With high problem-solving capacity, I will solve most network problems, efficiently. Currently I'm learning about mainframes, specifically the IBM's z/OS.
+I am a Network and System Administrator with over 7 years of experience , currently based in Germany. My career is built on ensuring the stability and performance of mission-critical systems, moving from core networking to the world of Infrastructure as Code (IaC) and Observability
 
 ## Get in touch :coffee:
 
